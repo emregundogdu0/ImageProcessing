@@ -1,0 +1,12 @@
+path: C:/Users/Emre Gundogdu/Desktop/fulldata  # Ana klasör
+
+train: images/train
+val: images/train  # Val yoksa train ile aynı yapılabilir
+
+nc: 4  # Sınıf sayısı
+
+names:
+  0: seahorse
+  1: pyramid
+  2: helicopter
+  3: leopard
